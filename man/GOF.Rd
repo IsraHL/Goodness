@@ -5,7 +5,7 @@
 GOF(x , tipo, a )
 }
 \description{
-GOF tiene como objetivo allar la función de distribución (caso continuo) o función masa de probabilidad (caso discreto) que más se asemeje a nuestra muestra. Dando como resultado los diferentes parámetros de las funciones y brindando el
+GOF tiene como objetivo hallar la función de distribución (caso continuo) o función masa de probabilidad (caso discreto) que más se asemeje a nuestra muestra. Dando como resultado los diferentes parámetros de las funciones y brindando el
 calculo de las estadísticas Kolmogorov-Smirnov, Kuiper, Cramer-von Mises, Anderson-Darling y Watson en el caso continuo o las estadísticas Cramer-von Mises, Anderson-Darling o Watson para el caso discreto.
 }
 \arguments{
