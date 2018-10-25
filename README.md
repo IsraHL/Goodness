@@ -34,8 +34,8 @@ cuyo tiempo estimado de ejecución es de 3 minutos con 53 segundos nos índica q
 con parámetros a = 26 y b = 1426 de haber elegido alguna de las estadísticas diferentes a la estadística Anderson-Darling. 
 Los datos podrían ser representados como una distribución Log-Normal con parámetros mu = 6.3428 y  sigma = 0.81486, 
 de haber elegido las estadíssticas Kolmogorov-Smirnov, Cramer-von Mises y Anderson-Darling. 
-De haber asignado a cualquiera de las estadísticas como nuestro indicador los datos podrían ser representados mediante una distribución Normal con parámetos mu = 709;027 y sigmna = 365;270, 
-como una distribución Cauchy con parámetros a = 745 y b = 248,5 o como una distribución Gamma con parámetros a = 2;415 y b = 0;0034.
+De haber asignado a cualquiera de las estadísticas como nuestro indicador los datos podrían ser representados mediante una distribución Normal con parámetos mu = 709.027 y sigmna = 365.270, 
+como una distribución Cauchy con parámetros a = 745 y b = 248.5 o como una distribución Gamma con parámetros a = 2.415 y b = 0.0034.
 
 
 Graficando en R tenemos
